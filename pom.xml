@@ -30,10 +30,10 @@
                   http://localhost:9099
                 </sonar.host.url>
                 <sonar.token>
-                sqp_3ebea6c084911737e67d15f88e76749fafe10b54
+                sqp_3b8457121106a43b934a0f5f448ab9e2f68dbbb8
                 </sonar.token>
-                <sonar.login>admin</sonar.login>
-                <sonar.password>Sriman@4207</sonar.password>
+                <!--sonar.login>admin</sonar.login--!>
+                <!--sonar.password>Sriman@4207</sonar.password--!>
             </properties>
         </profile>
      </profiles>
